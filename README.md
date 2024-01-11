@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Bryan
-### About me:
+# Hi there 👋 I'm Bryan
+## About me:
 - ## 👶 I was born and raised in Illinois, USA. 🇺🇸
 - ## 🎓 I go to school at Bentley University in Massachusetts, USA. 🇺🇸
 - ## 📝 I am currently an exchange student at Pompeu Fabra University in Barcelona. 🇪🇸
